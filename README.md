@@ -4,8 +4,9 @@
 <h1>
   스터디
 </h1>
-* [리버싱](https://star-carpenter-32e.notion.site/d2c70c638c99455c8868cfc2ce1ae469?pvs=4)
-* [포렌식](https://star-carpenter-32e.notion.site/d2c70c638c99455c8868cfc2ce1ae469?pvs=4)
+
+* [리버싱](https://star-carpenter-32e.notion.site/d2c70c638c99455c8868cfc2ce1ae469?pvs=4) 2023.07~2023.09
+* [포렌식](https://star-carpenter-32e.notion.site/d2c70c638c99455c8868cfc2ce1ae469?pvs=4) 2023.09~2023.11
 <!--
 **Dyedds/Dyedds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
