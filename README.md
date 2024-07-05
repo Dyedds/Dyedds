@@ -15,7 +15,7 @@
   프로젝트
 </h1>
 
-* [오늘만사장]
+* [오늘만사장](https://github.com/OnedayOwner)
 
 <!--
 **Dyedds/Dyedds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
