@@ -11,6 +11,7 @@
 * [포렌식](https://star-carpenter-32e.notion.site/d2c70c638c99455c8868cfc2ce1ae469?pvs=4) 2023.09~2023.11
 * [웹 해킹](https://star-carpenter-32e.notion.site/d2c70c638c99455c8868cfc2ce1ae469?pvs=4) 2024.01~2024.02
 * [프론트엔드](https://github.com/Dyedds/Front-end) 2024.01~2024.02
+* [CPPG]2024.07~08
 <h1>
   프로젝트
 </h1>
