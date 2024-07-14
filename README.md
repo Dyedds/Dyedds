@@ -12,6 +12,7 @@
 * [웹 해킹](https://star-carpenter-32e.notion.site/d2c70c638c99455c8868cfc2ce1ae469?pvs=4) 2024.01~2024.02
 * [프론트엔드](https://github.com/Dyedds/Front-end) 2024.01~2024.02
 * [CPPG](https://periodic-spark-9de.notion.site/CPPG-6c33e1ac1b564b82803c6c9fde9dd0b2?pvs=4)2024.07~08
+* [보안 동향](https://periodic-spark-9de.notion.site/716bb8817bcc428193f25553607f12e8?pvs=4)2024.07~
 <h1>
   프로젝트
 </h1>
